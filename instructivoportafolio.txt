@@ -1,0 +1,7 @@
+1.ingresar en la carpeta vista, luego dirigirse a el archivo llamado index.php
+2.navegar a gusto por el portafolio!!
+
+
+GUIA INSTALACION DE BASE DE DATOS CRUD
+1.ingresar a la carpeta recursos.
+2.seleccionar el archivo llamado db_crud.sql

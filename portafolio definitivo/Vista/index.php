@@ -100,7 +100,7 @@
         <div class="box">
             <img src="image/img-1.jpg" alt="">
             <div class="content">
-                <h3>Crud</h3>
+                <a href="../crud/indexCrud.php"><h3>Crud</h3></a>
             </div>
         </div>
 
