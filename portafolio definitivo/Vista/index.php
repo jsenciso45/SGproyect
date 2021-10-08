@@ -26,7 +26,6 @@
     <nav class="navbar">
         <a href="#home">Inicio</a>
         <a href="#about">sobre mi</a>
-        <a href="#services">Vista</a>
         <a href="#portfolio">Portafolio</a>
     </nav>
 
@@ -48,7 +47,7 @@
     <div class="content">
         <h3>Juan Sebastian Enciso Sarmiento</h3>
         <p>Soy un Aprendiz De Progración</p>
-        <a href="#" class="btn">Enlace GitHub</a>
+        <a href="https://github.com/jsenciso45/SGproyect" class="btn">Enlace GitHub</a>
     </div>
 
 </section>
@@ -98,21 +97,21 @@
     <div class="box-container">
 
         <div class="box">
-            <img src="image/img-1.jpg" alt="">
+            <img src="../img/rojo.jpg" alt="">
             <div class="content">
                 <a href="../crud/indexCrud.php"><h3>Crud</h3></a>
             </div>
         </div>
 
         <div class="box">
-            <img src="image/img-2.jpg" alt="">
+            <img src="../img/rojo.jpg" alt="">
             <div class="content">
                 <h3>JavaScript</h3>
             </div>
         </div>
 
         <div class="box">
-            <img src="image/img-3.jpg" alt="">
+            <img src="../img/rojo.jpg" alt="">
             <div class="content">
                 <h3>Manuales De Usualio</h3>
             </div>
