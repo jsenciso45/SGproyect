@@ -53,7 +53,7 @@
 	        <div class="contenido-card">
 		        <h3>Manual de Usuarios</h3>
 		        <p>Este manual busca explicarle al usuario los pasos de como se puede realizar una aplicacion </p>
-		        <a download="ManualUsuario" href="archivos/Manual_Usuario.docx   #inicio">Leer Màs</a>
+		        <a download="ManualUsuario" href="../recursos/archivos/Manual_Usuario.docx">Leer Màs</a>
 	        </div>
         </div>
 
@@ -66,7 +66,7 @@
 	        <div class="contenido-card">
 		        <h3>Manuales Tecnicos</h3>
 		        <p>Este documento contiene toda la información sobre los recursos utilizados por el proyecto,explicado todo el trabajo que se ha realizado al desarrollar un sistema</p>
-		        <a download="ManualTecnico" href="archivos/manual_tecnico.docx">Leer Màs</a>
+		        <a download="ManualTecnico" href="../recursos/archivos/manual_tecnico.docx">Leer Màs</a>
 	        </div>
         </div>
       </div>
