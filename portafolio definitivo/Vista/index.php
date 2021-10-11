@@ -97,21 +97,21 @@
     <div class="box-container">
 
         <div class="box">
-            <img src="../img/rojo.jpg" alt="">
+            <img src="../img/crud.png" alt="">
             <div class="content">
                 <a href="../crud/indexCrud.php"><h3>Crud</h3></a>
             </div>
         </div>
 
         <div class="box">
-            <img src="../img/rojo.jpg" alt="">
+            <img src="../img/js.jpg" alt="">
             <div class="content">
             <a href="indexEjer.php"><h3>Ejercicios JavaScript</h3></a>
             </div>
         </div>
 
         <div class="box">
-            <img src="../img/rojo.jpg" alt="">
+            <img src="../img/manual.png" alt="">
             <div class="content">
             <a href="indexManual.php"><h3>Manual De Usuario</h3></a>
             </div>

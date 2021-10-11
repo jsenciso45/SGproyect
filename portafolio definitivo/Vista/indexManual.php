@@ -26,7 +26,7 @@
       <div class="articulos art-img">
         <div class="pos"><h1><span>Manuales de</span> Aplicacion</h1></div>
        <div class="cont-tex">
-          <img src="../../img/manualUs.png" alt="">
+          <img src="../img/tuerca.png" alt="">
           <p class="textos">
            Estos manuales tienen como objetivo el reducir, estandarizar y simplificar las normas internas, así como homologar e incrementar la eficiencia de los procesos en toda la Administración Pública Federal.
           </p>
