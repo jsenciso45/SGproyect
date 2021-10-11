@@ -15,35 +15,35 @@
         <div class="box">
             <img src="../img/js.jpg" alt="">
             <div class="content">
-                <a href="../crud/indexCrud.php"><h3>EJERCICIO 1</h3></a>
+                <a href="ejer1.php"><h3>EJERCICIO 1</h3></a>
             </div>
         </div>
 
         <div class="box">
         <img src="../img/js.jpg" alt="">
             <div class="content">
-            <a href="../crud/indexCrud.php"><h3>EJERCICIO 2</h3></a>
+            <a href="ejer2.php"><h3>EJERCICIO 2</h3></a>
             </div>
         </div>
 
         <div class="box">
         <img src="../img/js.jpg" alt="">
             <div class="content">
-            <a href="../crud/indexCrud.php"><h3>EJERCICIO 3</h3></a>
+            <a href="ejer3.php"><h3>EJERCICIO 3</h3></a>
             </div>
         </div>
 
         <div class="box">
         <img src="../img/js.jpg" alt="">
             <div class="content">
-            <a href="../crud/indexCrud.php"><h3>EJERCICIO 4</h3></a>
+            <a href="ejer4.php"><h3>EJERCICIO 4</h3></a>
             </div>
         </div>
 
         <div class="box">
         <img src="../img/js.jpg" alt="">
             <div class="content">
-            <a href="../crud/indexCrud.php"><h3>EJERCICIO 5</h3></a>
+            <a href="ejer5.php"><h3>EJERCICIO 5</h3></a>
             </div>
         </div>
     </div>
