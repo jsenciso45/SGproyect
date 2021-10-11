@@ -6,6 +6,7 @@ include("conexion.php")
 <html lang="es">
 <head>
     <title>EDITAR</title>
+    <link rel="stylesheet" href="../css/crud-1.css">
 </head>
 <body>
 
@@ -50,23 +51,25 @@ include("conexion.php")
       
             mysqli_close($conex);
     ?>
+    
+    <form action="<?=$_SERVER['PHP_SELF']?>" method="POST"class="form-register" >
     <h1>Editar Aprendiz</h1>
-    <form action="<?=$_SERVER['PHP_SELF']?>" method="POST">
         <label>Nombre: </label>
-        <input type="text" name="nombre" value="<?php echo $nombre; ?>">
+        <input type="text" name="nombre" value="<?php echo $nombre; ?>" class="controls">
         <br>
         <br>
         <label>Nombre de Ficha:</label>
-        <input type="text" name="NombreFicha" value="<?php echo $nombreFicha; ?>">
+        <input type="text" name="NombreFicha" value="<?php echo $nombreFicha; ?>"class="controls" >
         <br>
         <br>
         <label>Numero de Ficha:</label>
-        <input type="text" name="NumeroFicha" value="<?php echo $numeroFicha; ?>">
+        <input type="text" name="NumeroFicha" value="<?php echo $numeroFicha; ?>" class="controls">
         <br>
         <br>
         <input type="hidden" name="id" value="<?php echo $id; ?>">
-        <input type="submit" name="enviar" value="ACTUALIZAR">
-        <a href="indexCrud.php">Regresar</a>
+        <input type="submit" name="enviar" value="ACTUALIZAR" class="controls">
+            <center><a href="indexCrud.php">REGRESAR</a></center>
+        
     </form>
     <?php
         }
