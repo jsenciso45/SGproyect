@@ -63,7 +63,9 @@
     <div class="row">
         <div class="content">
             <h3>Mi nombre es <span>Juan Sebastian Enciso Sarmiento</span></h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil hic eum magnam, ea nulla sit cumque explicabo dolorem illo itaque?</p>
+            <p>Soy un aprendiz del sena de la ficha adsi 2142345, llevo aproximadamente 1 año y 6 meses estudienado programacion, 
+                a lo largo de el este tiempo trascurrido he tenido la oportunidad de conocer diferentes leguajesx y metodologias.
+            </p>
         </div>
     </div>
 
