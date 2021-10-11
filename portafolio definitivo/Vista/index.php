@@ -113,7 +113,7 @@
         <div class="box">
             <img src="../img/rojo.jpg" alt="">
             <div class="content">
-                <h3>Manuales De Usualio</h3>
+            <a href="indexManual.php"><h3>Manual De Usuario</h3></a>
             </div>
         </div>
     </div>
