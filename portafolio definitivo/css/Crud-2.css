@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
 :root {
     --red: #DF013A;
     --black: #444;
@@ -8,6 +10,18 @@
         -.4rem -.4rem 1rem #fff;
     --box-shadow-inset: .4rem .4rem 1rem #ccc inset,
         -.4rem -.4rem 1rem #fff inset;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s rowr;
 }
 .about .row .box-container .box{
     flex:1 1 18rem;
@@ -24,18 +38,18 @@
 }
 
 .about .row .box-container .box p{
-    font-size: 1.7rem;
+    font-size: 1rem;
     color:var(--light-color);
-    padding:.5rem 0;
+    padding:.5rem;
 }
 .portfolio .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
     gap:2rem;
 }
 
 .portfolio .box-container .box{
-    height: 25rem;
+    height: 15rem;
     border-radius: .5rem;
     overflow:hidden;
     box-shadow: var(--box-shadow);
@@ -65,7 +79,7 @@
 }
 
 .portfolio .box-container .box .content h3{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color:var(--black);
     text-transform: uppercase;
     transform: translateY(-5rem);

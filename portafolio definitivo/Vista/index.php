@@ -106,7 +106,7 @@
         <div class="box">
             <img src="../img/rojo.jpg" alt="">
             <div class="content">
-                <h3>JavaScript</h3>
+            <a href="indexEjer.php"><h3>Ejercicios JavaScript</h3></a>
             </div>
         </div>
 
@@ -121,10 +121,6 @@
 </section>
 
 <!-- portfolio section ends -->
-
-
-
-
 
 
 <!-- Creditos -->

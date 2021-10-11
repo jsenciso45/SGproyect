@@ -370,6 +370,18 @@ section{
     opacity: 1;
 }
 
+.creditos{
+    font-size: 2rem;
+    text-align: center;
+    padding:2.5rem 1rem;
+    margin-top: 1rem;
+    border-top: var(--border);
+    color:var(--black);
+}
+
+.creditos span{
+    color: var(--red);
+}
 
 
 
